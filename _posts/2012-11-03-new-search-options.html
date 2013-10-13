@@ -1,0 +1,93 @@
+---
+layout: post
+---
+<h1>New Search Options</h1>
+<p>Today, we released a new search syntax you can use to find your stories.  You can use this in the search box at the top of every page, or in the filter field from an iteration.  Click the "Search Options" link on search pages to bring up a dialog to help you build your search.
+</p>
+<p>Here are some quick examples to get you started:
+</p>
+<p>"#10" - Search for story #10
+</p>
+<p>"star wars" - All stories that contains the text "star wars"
+</p>
+<p>"assigned: mhughes" - All stories that are assigned to mhughes
+</p>
+<p>"tag: bug" - All stories that are tagged with the bug tag 
+</p>
+<p>"assigned: mhughes, assigned: bob, tag: bug, star wars" - All stories that are assigned to either mhughes or bob and have the bug tag, and contain the text "star wars"
+</p>
+<h3>Free Text</h3>
+<p>Type text into the box to search for it anywhere within the story or the comments of that story.
+</p>
+<p>Example: "my search"
+</p>
+<h3>By number</h3>
+<p>You can find a story by it's number by including the hash (#) symbol.  Search for multiple story numbers by separating them with commas.
+</p>
+<p>Example: "#10"
+</p>
+<p>Example: "#10,#101,#35"
+</p>
+<h3>By Assignee</h3>
+<p>You can find stories assigned to someone by typing "assigned: " and their username. 
+</p>
+<p>Example: "assigned: mhughes"
+</p>
+<h3>By Status</h3>
+<p>Find stories of a particular status by typeing "status: " the the status.
+</p>
+<p>Example: "status: done"
+</p>
+<h3>By Epic</h3>
+<p>Find stories in an epic number with "epic: " and the number.
+</p>
+<p>Example: "epic: 5"
+</p>
+<h3>By Date</h3>
+<p>You can search for stories either created or modified before or after a date.
+</p>
+<p>Example: "createdafter: 2012-10-01"<br>
+ Finds all stories created after October, 1st, 2012
+</p>
+<p>Example: "createdbefore: 2012-10-01"<br>
+ Finds all stories created before October, 1st, 2012
+</p>
+<p>Example: "updatedafter: 2012-10-01"<br>
+ Example: "after: 2012-10-01"<br>
+ Both of these finds all stories last updated after October, 1st, 2012
+</p>
+<p>Example: "updatedbefore: 2012-10-01"<br>
+ Example: "before: 2012-10-01"<br>
+ Both of these finds all stories last updated before October, 1st, 2012
+</p>
+<p>For date format, you can use yyyy-mm-dd or mm/dd/yyyy<br>
+ Example: "after: 10/1/2012"
+</p>
+<h3>By Category</h3>
+<p>Search for stories in a specific category with the category (or cat) keyword.
+</p>
+<p>Example: "category: bug"<br>
+ Example: "cat: bug"
+</p>
+<h3>By Tag</h3>
+<p>Search for stories with a specific tag with the tag keyword.
+</p>
+<p>Example: "tag: release_1"
+</p>
+<h3>Multiple criteria</h3>
+<p>You can separate criteria with commas to search for more than one.  Internally, we do an "or" within the same criteria and an "and" between different criteria.
+</p>
+<p>Example: "assigned: mhughes, status: done"<br>
+ Searches for stories assigned to mhughes that are also done.
+</p>
+<p>Example: "assigned: mhughes, assigned: jdoe"<br>
+ Searches for stories assigned to mhughes or jdoe
+</p>
+<p>Example: "assigned: mhughes, assigned: jdoe, status: done"<br>
+ Searches for stories assigned to either mhughes or jdoe and that are also done.
+</p>
+<p>Example: "assigned: mhughes, assigned: jdoe, star wars"<br>
+ Searches for stories assigned to either mhughes or jdoe and are marked done and contain the text 'star wars'
+</p>
+<h3>Bookmarks</h3>
+<p>After performing a search, you can bookmark the URL of the results page, or email it to colleagues to repeat that search at a later date.</p>

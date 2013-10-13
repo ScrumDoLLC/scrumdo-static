@@ -7,8 +7,13 @@ title: ScrumDo - Some sub title
 
 Here is the [MarkDown syntax](http://daringfireball.net/projects/markdown/)
 
-Here is an [example.md](example.html)
+Here are some examples:
 
+* Simple markdown file: [example.md](example.html)
+* Custom html [example2](example2/)
+
+
+## Blog Posts:
 <ul>
   {% for post in site.posts %}
     <li>
