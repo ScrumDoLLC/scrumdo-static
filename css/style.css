@@ -85,6 +85,28 @@ h6{font-size: 10px; color:#989898; 	font-weight:normal; margin-top: 10px;}
 .red{border: 0px solid #FF0000; width:315px; float:right;margin-right:5px;}
 
 
+#blackbig {height:810px; width:992px;border:0px solid #000000;}
+#blackbig div{margin-top:5px;}
+.greenbig {border:0px solid #009900; width:650px; float:left;margin-left:5px;}
+.redbig{border: 0px solid #FF0000; width:270px; height: 680px; float:right;margin-right:5px; background-color: #f1f2f3; -moz-border-radius-bottomright: 10px;
+-moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -webkit-border-bottom-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;}
+
+.font12px
+{
+	font-size: 12px;
+}
+
+.font14px
+{
+	font-size: 14px;
+}
+
+.blueclass
+{
+	color:#26a7e6;
+
+}
+
 .quote
 {
 	margin-top: 50px;
@@ -146,6 +168,12 @@ h6{font-size: 10px; color:#989898; 	font-weight:normal; margin-top: 10px;}
 {
 	padding-right: 12px;
 }
+
+.alignleftpad10px
+{
+	padding-left: 10px;
+}
+
 .table_header{position:relative; background:#26a7e6; height:49px; padding-top:0px; padding-bottom: 0px; padding-left: 7px; padding-right: 7px; font-size:12px; font-weight:400; color:#ffffff; z-index:12;}
 .table_header img{margin-right:7px; margin-left:10px; margin-top:-3px;}
 .table_special_bg
@@ -156,6 +184,22 @@ h6{font-size: 10px; color:#989898; 	font-weight:normal; margin-top: 10px;}
 	margin-left:-15px; 
 	margin-top:4px; 
 	background:url(../images/scrumbg.png) no-repeat;	
+	color:#ffffff;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);
+	font-size:13px !important;
+	font-weight:400;
+	/*text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.16);*/
+	z-index:10;
+}
+
+.table_special_bgbig
+{
+	position:relative;
+	width:1015px; 
+	height:55px; 
+	margin-left:-15px; 
+	margin-top:4px; 
+	background:url(../images/scrumtblbg.png) no-repeat;	
 	color:#ffffff;
 	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);
 	font-size:13px !important;
@@ -288,10 +332,12 @@ ul
 	    padding-left: 30px;
     padding-right: 20px;
 }
-.paddingtop40px
+
+.paddingTop25px
 {
-	padding-top:40px;
+	padding-top: 25px;
 }
+
 
 .centerhead
 {
