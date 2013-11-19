@@ -52,7 +52,7 @@ Here are a couple screenshots to give you an idea of what we're working on.
 This one is of an example board.  It shows off some of the new features like being able to place cells anywhere, some WIP limit displays, and the ability to track multiple workflows.
 ![Kanban Board](/images/blog/kanbanexampleboard.png)
 
-This screenshot shows two of the reports that we'll be releasing with initially, a lead time histogram, and a continuous flow diagram.  The really exciting thing about both of these are all of the ways you can slice & dice your data via the report options to see exactly what you want to.  We'll have some blog posts dedicated to just that in the future.
+This screenshot shows two of the reports that we'll be releasing with initially, a lead time histogram, and a cumulative flow diagram.  The really exciting thing about both of these are all of the ways you can slice & dice your data via the report options to see exactly what you want to.  We'll have some blog posts dedicated to just that in the future.
 ![Kanban Reports](/images/blog/kanbanreports.png)
 
 
