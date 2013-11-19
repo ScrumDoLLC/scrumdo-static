@@ -22,6 +22,8 @@ title: ScrumDo - Help
 <h2>Kanban Projects</h2>
 
 - <a href="kanban/core.html">Core principles - Workflows, Cells &amp; Policies</a>
+- Converting an existing project
+  - [Setting up WIP limits](kanban/kanbanize_wip.html) 
 - Editing the board
     - Workflows
     - Policies
