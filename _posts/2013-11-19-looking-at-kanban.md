@@ -15,14 +15,15 @@ Scrum prescribes dividing:
 - Into smaller teams to help improve collaboration. 
 - Work to be done into epics and stories that can be independently tested to add incremental value.
 - Time into iterations to manage scope creep and planning.
+
 Scrum encourages feedback loops in retrospectives.
 
 In teams that have buy in from leadership, business, and IT Scrum continues to prove to be successful in companies across the globe.  Our commitment to providing a great Scrum tool will continue.
 
 **And a look at Kanban**
 
-Kanban is a pragmatic, less prescriptive, lean change management method for organizations.
-It encourages a systems view of organization, work, process, and teams.  Kanban encourages a service oriented way of thinking and promotes sustainable change.
+Kanban is more pragmatic and less prescriptive than Scrum.  It's a lean change management method for organizations.
+It encourages a systems-view of work, process, and teams.  Kanban encourages a service oriented way of thinking and promotes sustainable change.
 
 The core practices of Kanban are:
 - Visualize your workflow
