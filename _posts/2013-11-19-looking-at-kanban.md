@@ -61,7 +61,7 @@ As part of all of this, we're also working on some big improvements to some area
 
 ### Scrumban/Kanban Accredited training classes
 
-To help organizations decide if, and how, to adopt Kanban principles and techniques, we will be offering classes to organizations interested in formal training.  Stay tuned here, or send us an email [support@scrumdo.com](mailto:support@scrumdo.com) and we'll add you to our list for more info.
+To help organizations decide if, and how, to adopt Kanban principles and techniques, we've partnered with Code Genesys to offer classes to organizations interested in formal training.  Stay tuned here, or send us an email [ajay@codegenesys.com](mailto:ajay@codegenesys.com) and we'll add you to our list for more info.
 
 
 
