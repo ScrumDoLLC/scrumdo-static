@@ -87,23 +87,37 @@
   
   
     <script type="text/javascript" charset="utf-8">
-        var STATIC_URL = "{{ site.STATIC_URL }}/";
+            var STATIC_URL = "{{ site.STATIC_URL }}/";
 
-        $(document).ready(function() {
-          $(".megamenu").megaMenu('click_fade');
+            $(document).ready(function() {
+              $(".megamenu").megaMenu('click_fade');
 
-        });   
+            });   
 
-        _gaq.push(['_setAccount', 'UA-19817142-1']);
-        _gaq.push(['_trackPageview']);
-        _gaq.push(['_trackPageLoadTime']);
+            _gaq.push(['_setAccount', 'UA-19817142-1']);
+            _gaq.push(['_trackPageview']);
+            _gaq.push(['_trackPageLoadTime']);
 
-        (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();        
-  </script>
-        
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();     
+
+
+            var google_conversion_id = 1021662849;
+            var google_custom_params = window.google_tag_params;
+            var google_remarketing_only = true;   
+    </script>
+
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">        
+
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1021662849/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript> 
+
+           
     </body>
 </html>
