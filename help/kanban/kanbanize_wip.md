@@ -18,4 +18,4 @@ There is a special row at the top labeled "All Classes".  These WIP limits corre
 
 There is a special column on the right labeled "All Statuses" and represents the inverse of the "All Classes" row.  The "3" means there should never be more than 3 cards in the entire Expediated class of service.
 
-
+[Next Step](kanbanize_done.html)
