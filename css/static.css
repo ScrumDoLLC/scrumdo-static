@@ -1,0 +1,28 @@
+.sidebar-help {
+    margin-top: 15px;
+}
+.sidebar-help h2 {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.sidebar-help h1 {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 28px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.help-content {
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 250px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}

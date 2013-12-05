@@ -3,37 +3,10 @@ layout: default
 title: ScrumDo - Help
 ---
 
-<h2>Account &amp; Subscription</h2>
-
-- <a href="invite.html">Inviting other people</a>
-- <a href="invite.html">Access levels explained</a>
-- <a href="http://support.scrumdo.com/">Contacting Support</a>
-
-
-<h2>General</h2>
-- [Help Choosing: Scrum or Kanban](choosing.html)
-
-<h2>Scrum Projects</h2>
-
-- <a href="scrum/core.html">Core principles - Epics, Stories &amp; Iterations</a>   
 
 
 
-<h2>Kanban Projects</h2>
-
-- <a href="kanban/core.html">Core principles - Workflows, Cells &amp; Policies</a>
-- Converting an existing project
-  - [Setting up WIP limits](kanban/kanbanize_wip.html) 
-- Editing the board
-    - Workflows
-    - Policies
-    - Cells
-    - Graphics
-    - Images
-- Reporting
-    - Cumulative Flow Diagram
-    - Lead Time Histogram
-        
+{% include help-index.md %}        
     
 
 
