@@ -58,7 +58,7 @@ h6{
 }
 
 a{
-	color: #2e9a66;
+	color: #1D93DF;
 	-webkit-transition: 0.25s;
 	-moz-transition: 0.25s;
 	-o-transition: 0.25s;
@@ -66,7 +66,7 @@ a{
 }
 
 a:hover{
-	color: #27ae60;
+	color: #1D93DF;
 	text-decoration: none;
 }
 
@@ -91,12 +91,12 @@ a:hover{
 }
 
 p::selection, h1::selection, h2::selection, h3::selection, h4::selection, h5::selection, h6::selection, li::selection, a::selection {
-	background: #2e9a66;
+	background: #1D93DF;
 	text-shadow: none;
 	}
 
 p::-moz-selection, h1::-moz-selection, h2::-moz-selection, h3::-moz-selection, h4::-moz-selection, h5::-moz-selection, h6::selection, li::selection, a::-moz-selection {
-	background: #2e9a66;
+	background: #1D93DF;
 	text-shadow: none;
 }
 
@@ -145,7 +145,7 @@ hr.title-line{
 
 hr.content-hr{
 	border: 0;
-	border-top: 1px solid #2e9a66;
+	border-top: 1px solid #1D93DF;
 	margin-bottom: 0;
 }
 
@@ -337,7 +337,7 @@ span.rollover:hover {
 }
 
 .social li:hover{
-	border: 2px solid #2e9a66;
+	border: 2px solid #1D93DF;
 }
 
 .social li a{
@@ -352,7 +352,7 @@ span.rollover:hover {
 }
 
 .social li a:hover{
-	color: #2e9a66;
+	color: #1D93DF;
 }
 
 /* #TOP NAV
@@ -360,7 +360,7 @@ span.rollover:hover {
 .navbar-inverse .navbar-inner{
 	background: rgba(255,255,255,.9);
 	border: none;
-	border-bottom: 1px solid #2e9a66;
+	border-bottom: 1px solid #1D93DF;
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
 }
 
@@ -372,9 +372,9 @@ span.rollover:hover {
 }
 
 .navbar-inverse .nav .active > a, .navbar-inverse .nav .active > a:hover, .navbar-inverse .nav .active > a:focus{
-	color: #2e9965;
+	color: #1D93DF;
 	background: none;
-	box-shadow: 0 2px 0 #2e9965;
+	box-shadow: 0 2px 0 #1D93DF;
 	border-radius: 0;
 }
 
@@ -382,7 +382,7 @@ span.rollover:hover {
 .navbar-inverse .nav > li > a:hover,
 .navbar-inverse .brand:focus,
 .navbar-inverse .nav > li > a:focus {
-  color: #2e9a66;
+  color: #1D93DF;
 }
 
 .navbar .nav.pull-right{
@@ -393,8 +393,8 @@ span.rollover:hover {
 /* #HEAD BANNER
 =============================== */
 #head-banner{
-	border-top: 2px solid #2e9a66;
-	border-bottom: 7px solid #2e9a66;
+	border-top: 2px solid #1D93DF;
+	border-bottom: 7px solid #1D93DF;
 	margin-top: 36px;
 }
 
@@ -659,45 +659,45 @@ span.rollover:hover {
 	box-shadow: 0 0 0 10px rgba(255, 36, 0, 0.32);
 }
 
-/*product dot*/
-.product-dot1{
-	margin-left: 125px;
-	margin-top: 110px;
-}
-.product-dot2{
-	margin-left: 515px;
-	margin-top: 150px;
-}
+	.product-dot1{
+		margin-left: 123px;
+		margin-top: 200px;
+	}
+	.product-dot2{
+		margin-left: 150px;
+		margin-top: 321px;
+	}
+	
+	.product-dot3{
+		margin-left: 613px;
+		margin-top: 471px;
+	}
+	
+	.product-dot4{
+		margin-left: 43px;
+		margin-top: 541px;
+	}
+	
+	.product-dot5{
+		margin-left: 152px;
+		margin-top: 541px;
+	}
+	
+	.product-dot6{
+		margin-left: 836px;
+		margin-top: 490px;
+	}
+	
+	.product-dot7{
+		margin-left: 190px;
+		margin-top: 440px;
+	}
+	
+	.product-dot8{
+		margin-left: 696px;
+		margin-top: 85px;
+	}
 
-.product-dot3{
-	margin-left: 815px;
-	margin-top: 80px;
-}
-
-.product-dot4{
-	margin-left: 206px;
-	margin-top: 185px;
-}
-
-.product-dot5{
-	margin-left: 740px;
-	margin-top: 255px;
-}
-
-.product-dot6{
-	margin-left: 625px;
-	margin-top: 410px;
-}
-
-.product-dot7{
-	margin-left: 150px;
-	margin-top: 350px;
-}
-
-.product-dot8{
-	margin-left: 475px;
-	margin-top: 600px;
-}
 
 /* App Annotations */
 .left-annotation, .right-annotation{
@@ -797,6 +797,7 @@ ul.annotations-features li{
 	line-height: 1em;
 	padding: 0;
 	margin: 0;
+	font-size: 24px;
 }
 
 .the-price small{
@@ -865,7 +866,7 @@ a.team-social{
 }
 
 a.team-social:hover{
-	color: #2e9a66;
+	color: #1D93DF;
 }
 
 /* Toggle FAQ*/
@@ -892,7 +893,7 @@ a.team-social:hover{
 }
 
 a.toggle-button:hover{
-	color: #2e9a66;
+	color: #1D93DF;
 }
 
 a.toggle-button:before {
@@ -926,8 +927,8 @@ a.toggle-button:hover{
 /* #Breakline
 =============================== */
 #breakline{
-	border-top: 2px solid #2e9a66;
-	border-bottom: 2px solid #2e9a66;	
+	border-top: 2px solid #1D93DF;
+	border-bottom: 2px solid #1D93DF;	
 }
 
 #breakline h3{
@@ -1125,4 +1126,20 @@ div.hopscotch-bubble .hopscotch-nav-button.next:hover{
 
 .clients {
 	font-size: 32px;
+    line-height: 34px;
+}
+
+.slides li {
+	height: 60px;
+}
+
+.flexslider-low-head-banner {
+	margin-bottom: 20px;
+}
+
+.final-try-button {
+	margin-top: 40px;
+	margin-left: 120px;
+	font-size: 36px;
+	line-height: 50px;
 }
