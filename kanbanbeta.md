@@ -42,6 +42,7 @@ And of course, you can email [support@scrumdo.com](mailto:support@scrumdo.com) w
 ## Currently Planned Features
 
 * Better help content
+* Several additional reports
 * Replacing Scrum terminology with Kanban terminology throughout the site when on a Kanban based project.
 * Option to dynamically resize cells based on their content.
 * Expanded policy definition to include a check list that specific people need to approve for entry or exit criteria
