@@ -1143,3 +1143,12 @@ div.hopscotch-bubble .hopscotch-nav-button.next:hover{
 	font-size: 36px;
 	line-height: 50px;
 }
+
+.flip-counter {
+	width: 410px;
+	height: 130px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	
+}

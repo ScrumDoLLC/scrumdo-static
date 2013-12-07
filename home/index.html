@@ -25,6 +25,12 @@
 
     <!-- Fav and touch icons -->
     <link rel="shortcut icon" href="https://scrumdo-cdn.s3.amazonaws.com/favicon.ico">
+
+	<!-- My flip counter script, REQUIRED -->
+	<script type="text/javascript" src="https://d11uy15xvlvge3.cloudfront.net/static/v46/flip_counter/js/flipcounter.js"></script>
+	<!-- Style sheet for the counter, REQUIRED -->
+	<link rel="stylesheet" type="text/css" href="https://d11uy15xvlvge3.cloudfront.net/static/v46/flip_counter/css/counter.css" />
+
   </head>
 
   <body>
@@ -44,8 +50,8 @@
 		            <span class="icon-bar"></span>
 		          </button>
 		          <a class="brand" href="#"><img src="img/logo.png" alt="logo"/></a>
-		          
 
+		
 		          <div class="nav-collapse collapse">
 		            <ul class="nav pull-right">
 		            	<li>
@@ -54,9 +60,9 @@
 		            </ul>
 
 		            <ul class="nav nav-pills pull-right">
-			          <li class="active"><a href="#home">Home</a></li>
-			          <li><a href="#marketing">Why ScrumDo?</a></li>
+			          <li class="active"><a href="#home">Home</a></li>			          
 			          <li><a href="#featurettes">Features</a></li>			          
+			          <li><a href="#marketing">Why ScrumDo?</a></li>
 			          <li><a href="#lower-content">Pricing</a></li>			          
 			        </ul>
 		          </div><!--/.nav-collapse -->
@@ -119,7 +125,7 @@
 		     				<div class="span3 right-desc">
 		     				
 		     					<p class="product-teaser-title">From Releases to Tasks</p>
-		     					<p class="product-teaser-desc">You can use ScrumDo to plan releases across project,
+		     					<p class="product-teaser-desc">You can use ScrumDo to plan releases across projects,
 		     					epic stories within a project, user stories, and tasks within a story.</p>
 		     				
 		     				</div>
@@ -280,73 +286,7 @@
 		<!--/ #head-banner -->
 		
 		
-		<!-- Marketing Section -->
-		<section id="marketing">
-	    
-		    <div class="container">
-		
-		     	<div class="row">
-		     	
-		     		<div class="span12 centered section-title-wrapper">
-		     		
-		     			<h3 class="section-title">Why you should choose <span class="normal">ScrumDo</span></h3>
-		     			
-		     			<p class="section-subtitle">We strive to strike the right balance between ease of use, flexibility, and adherence to Scrum principles.</p>
-		     		
-		     		</div>
-		  
-		     		
-		     		<div class="span4 marketing-content centered">
-		     		
-			     		<img class="marketing-icon" src="img/keyframes.png" alt="Marketing Icon"/>
-		     			
-		     			<h5>Integrates with Others</h5>
-		     			
-		     			<p>Using GitHub, Basecamp, Jira, or several others?  We've got you covered.
-		     			</p>
-		     		
-		     		</div> <!--/ .marketing-content -->
-		     		
-		     		<div class="span4 marketing-content centered">
-		     		
-			     		<img class="marketing-icon" src="img/phone.png" alt="Marketing Icon"/>
-		     			
-		     			<h5>Clean Layout</h5>
-		     			
-		     			<p>This is not a needlessly complex tool that takes weeks to learn.  Be up and running today.</p>
-		     		
-		     		</div> <!--/ .marketing-content -->
-		     		
-		     		<div class="span4 marketing-content centered">
-		     		
-			     		<img class="marketing-icon" src="img/settings.png" alt="Marketing Icon"/>
-		     			
-		     			<h5>Easy to Customize</h5>
-		     			
-		     			<p>Create your own set of statuses, categories, and epics for stories.</p>
-		     		
-		     		</div> <!--/ .marketing-content -->
-		     	
-		     		
-		     	
-		     	</div><!--/ .row -->
-		
-		    </div> <!-- / .container -->
-	    
-		</section>
-		<!--/ #marketing -->
-		
-		
-		<!-- Horizontal Line -->
-		<div class="container">		
-			<div class="row">			
-				<div class="span12">				
-					<hr class="content-hr">
-				</div>				
-			</div> <!--/ .row -->			
-		</div> <!--/ .container -->
-		<!--/ END Horizontal Line -->
-		
+
 		
 		<!-- Featurettes Section -->
 		<section id="featurettes">
@@ -474,10 +414,240 @@
 			
 		</div> <!--/ .container -->
 		<!--/ END Horizontal Line -->
-		
+
+		<!-- Small feature grid -->
 		<div class="container">
+				<div class="row" style="margin-top: 20px;">		
+								
+					<div class="span4">
+						<div style="min-height: 400px" class="thumbnail">
+							
+							<img src="https://d11uy15xvlvge3.cloudfront.net/static/v46/homepage-alt/poker-screenshot-360.png" >
+							<div class="caption">
+								<h3>Planning Poker<sup style="font-size:12px">&reg;</sup></h3>
+								<p>Use planning poker with teamates in the room, or across the world to estimate and size your stories.</p>
+								<p>Since it's integrated into ScrumDo, there is no copy &amp; pasting your stories to other websites.</p>
+							</div>
+						</div>
+					</div>
+					
+					
+					<div class="span4">
+						<div style="min-height: 400px" class="thumbnail">							
+							<img src="https://d11uy15xvlvge3.cloudfront.net/static/v46/homepage-alt/charts-screenshot-360.png">
+							<div class="caption">
+								<h3>Charts</h3>
+								<p>See your progress during an iteration using a <b>Burnup</b>, <b>Burndown</b>, or <b>Stacked</b> chart.</p>
+								<p>Define custom statuses to report your stories by.</p>
+							</div>
+						</div>
+					</div>
+
+					
+
+					<div class="span4 ">
+						<div style="min-height: 400px" class="thumbnail">							
+						
+						<img src="https://d11uy15xvlvge3.cloudfront.net/static/v46/homepage-alt/scrumboard-screenshot-360.png">
+							<div class="caption">
+								<h3>Scrum Board</h3>
+								<p>The Scrum Board gives you a quick way of visually seeing the status of your iteration.  
+									Drag and drop stories into different columns to change their statuses.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="row" style="margin-top: 20px">
+					<div class="span4">
+						<div style="min-height: 400px" class="thumbnail">
+							
+							<img src="https://d11uy15xvlvge3.cloudfront.net/static/v46/homepage-alt/iterationplanning-screenshot-360.png">
+							<div class="caption">
+								<h3>Iteration Planning</h3>
+								<p>Our iteration planning tool helps you plan out your work and move stories from your backlog into an iteration.</p>
+								<p>Compare the amount of work in previous iterations with the current one, so as not to overload your team.</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="span4 ">
+						<div style="min-height: 400px" class="thumbnail">							
+							<img src="https://d11uy15xvlvge3.cloudfront.net/static/v46/homepage-alt/epic-screenshot-360.png">
+							<div class="caption">
+								<h3>Epic Stories</h3>
+								<p>Use the epic tool to make a high level plan of the work before you start.  
+								Create a hierarchy of tasks to keep your work organized.</p>						
+							</div>
+						</div>
+					</div>
+
+					
+					<div class="span4">
+						<div style="min-height: 400px" class="thumbnail">
+							
+							<img src="https://d11uy15xvlvge3.cloudfront.net/static/v46/homepage-alt/releaseplanning-screenshot-360.png">
+							<div class="caption">
+								<h3>Release Planning</h3>
+								<p>Create a bigger picture view of your organization's work with our release planning tool.</p>
+								<p>Add projects, or parts of projects, to a release to track stats for an entire release.</p>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+				
+				
+				<div class="row" style="margin-top: 20px">
+
+					<div class="span4 ">
+						<div style="min-height: 230px" class="thumbnail">							
+							<div class="caption">
+								<h3>Developer API</h3>
+								<p>Use ScrumDo's REST based developer API to extract data or to integrate with your own
+								internal software development systems.</p>						
+								
+							</div>
+						</div>
+					</div>
+
+					<div class="span4">
+						<div style="min-height: 230px" class="thumbnail">
+							<div class="caption">
+								<h3>ATDD</h3>
+								Acceptance Test Driven Development is a software development practice in which teams 
+								document specifications in the form of acceptance tests.  ScrumDo
+								allows you to author and export tests in the Gherkin format to use with automated tools.
+							</div>
+						</div>
+					</div>
+					
+					
+					<div class="span4">
+						<div style="min-height: 230px" class="thumbnail">
+							<div class="caption">
+								<h3>Excel Exports</h3>
+								<p>Export your project, iteration, or entire organization to Excel for easy manipulation or reporting.</p>
+								<p>Import stories from Excel to create a custom workflow that suits your needs.</p>
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>		
+		</div>
+		<!-- end small feature grid -->
+
+
+
+		<!-- Horizontal Line -->
+		<div class="container">
+		
+			<div class="row">
+			
+				<div class="span12">
+				
+					<hr class="content-hr">
+				</div>
+				
+			</div> <!--/ .row -->
+			
+		</div> <!--/ .container -->
+		<!--/ END Horizontal Line -->
+
+		
+		<!-- Marketing Section -->
+		<section id="marketing">
+	    
+		    <div class="container">
+
+
+
+		
+		     	<div class="row">
+
+
+		     	
+		     		<div class="span12 centered section-title-wrapper">
+		     		
+		     			<h3 class="section-title">Why you should choose <span class="normal">ScrumDo</span></h3>
+		     			
+		     			<p class="section-subtitle">We strive to strike the right balance between ease of use, flexibility, and adherence to Scrum principles.</p>
+		     		
+		     		</div>
+		  
+		     		
+		     		<div class="span4 marketing-content centered">
+		     		
+			     		<img class="marketing-icon" src="img/keyframes.png" alt="Marketing Icon"/>
+		     			
+		     			<h5>Integrates with Others</h5>
+		     			
+		     			<p>Using GitHub, Basecamp, Jira, or several others?  We've got you covered.
+		     			</p>
+		     		
+		     		</div> <!--/ .marketing-content -->
+		     		
+		     		<div class="span4 marketing-content centered">
+		     		
+			     		<img class="marketing-icon" src="img/phone.png" alt="Marketing Icon"/>
+		     			
+		     			<h5>Clean Layout</h5>
+		     			
+		     			<p>This is not a needlessly complex tool that takes weeks to learn.  Be up and running today.</p>
+		     		
+		     		</div> <!--/ .marketing-content -->
+		     		
+		     		<div class="span4 marketing-content centered">
+		     		
+			     		<img class="marketing-icon" src="img/settings.png" alt="Marketing Icon"/>
+		     			
+		     			<h5>Easy to Customize</h5>
+		     			
+		     			<p>Create your own set of statuses, categories, and epics for stories.</p>
+		     		
+		     		</div> <!--/ .marketing-content -->
+		     	
+		     		
+		     	
+		     	</div><!--/ .row -->
+				
+				<div class="row">		
+					<div class="span12">					
+						<hr class="content-hr">
+					</div>
+				</div>
+
+
+				    <div id="counter_box" class="centered" style="text-align: center; margin-top: 35px;">
+							
+							<div style="font-size: 30px; font-weight: bold; margin-bottom: 30px;">Thousands of people get work done with ScrumDo every day.</div>
+							<div id="flip-counter" class="flip-counter"></div>
+							<div style="font-size: 54px; font-weight: bold;">Stories Completed</div>
+							
+							<br style="clear:both" /><br/>
+							
+						
+						<script type="text/javascript" charset="utf-8">
+							var start_date = 1351992261; // Estimate last updated 3/16/2013
+							var now_date = Math.round((new Date()).getTime() / 1000);
+							var start_count = Math.round( (now_date - start_date) / 7.213 );
+							var myCounter = new flipCounter('flip-counter', {value:start_count, inc:1, pace:7113, auto:true});
+						</script>
+					</div>
+		    </div> <!-- / .container -->
+
+
+		    <div class="container">
 
 		    <div class="row">
+				<div class="span12">					
+						<hr class="content-hr">
+				</div>
+			</div>
+			<div class="row">
+
 		    	<div class="span12 centered">
 		    		<h3 class="section-title">Support after your purchase</h3>
 		    		<p>
@@ -530,33 +700,25 @@
 		     		</div>
 			</div>
 		</div>
-
-
-
-
-
-
-		<!-- Horizontal Line -->
-		<div class="container">
+	    
+		</section>
+		<!--/ #marketing -->
 		
-			<div class="row">
-			
-				<div class="span12">
-				
-					<hr class="content-hr">
-				</div>
-				
-			</div> <!--/ .row -->
-			
-		</div> <!--/ .container -->
-		<!--/ END Horizontal Line -->
 
 		
+
 		<!-- Lower Content Section -->
 		<section id="lower-content">
 	    
 		    <div class="container">
 		
+				<div class="row">
+				
+					<div class="span12">					
+						<hr class="content-hr">
+					</div>
+					
+				</div> <!--/ .row -->		
 		     	<div class="row">
 		     	
 		     		<div class="span12 centered section-title-wrapper">
