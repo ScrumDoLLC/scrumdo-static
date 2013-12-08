@@ -6,8 +6,8 @@
 
 <h2>Account &amp; Subscription</h2>
 <ul>
-<li><a href="invite.html">Inviting other people</a></li>
-<li><a href="invite.html">Access levels explained</a></li>
+<li><a href="/help/invite.html">Inviting other people</a></li>
+<li><a href="/help/invite.html">Access levels explained</a></li>
 <li><a href="http://support.scrumdo.com/">Contacting Support</a></li>
 </ul>
 
