@@ -1,3 +1,4 @@
 paginate: 10
 STATIC_URL: "http://cdn2.scrumdo.com/static/v32"
 paginate_path: "blog/:num"
+github_url: "https://github.com/ScrumDoLLC/scrumdo-static/blob/gh-pages/"

@@ -1,5 +1,6 @@
 <h2>General</h2>
 <ul>
+<li><a href="/help/navigating.html">Navigating the Site</a></li>
 <li><a href="/help/choosing.html">Help Choosing: Scrum or Kanban</a></li>
 </ul>
 
@@ -14,6 +15,9 @@
 <h2>Scrum Projects</h2>
 <ul>
     <li><a href="/help/scrum/core.html">Core principles - Epics, Stories &amp; Iterations</a>   </li>
+    <li><a href="/help/scrum/projectoptions.html">Scrum Project Options</a>   </li>
+    <li><a href="/help/scrum/charts.html">Available Charts</a>   </li>
+    
 </ul>
 
 
@@ -34,8 +38,8 @@
 
     <li>Reporting
         <ul>
-        <li>Cumulative Flow Diagram</li>
-        <li>Lead Time Histogram</li>
+        <li><a href="/help/kanban/report-cfd.html">Cumulative Flow Diagram</a></li>
+        <li><a href="/help/kanban/report-lead.html">Lead Time Histogram</a></li>
         </ul>
     </li>
 
