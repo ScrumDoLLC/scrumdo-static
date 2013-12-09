@@ -14,6 +14,7 @@
 
 <h2>Scrum Projects</h2>
 <ul>
+    <li><a href="/help/video/scrumintro.html">Video Intro</a></li>
     <li><a href="/help/scrum/core.html">Core principles - Epics, Stories &amp; Iterations</a>   </li>
     <li><a href="/help/scrum/projectoptions.html">Scrum Project Options</a>   </li>
     <li><a href="/help/scrum/charts.html">Available Charts</a>   </li>
@@ -25,6 +26,7 @@
 <h2>Kanban Projects</h2>
 
 <ul>
+    <li><a href="/help/video/kanbanintro.html">Video Intro</a></li>
     <li><a href="/help/kanban/core.html">Core principles - Cells &amp; Workflows</a></li>
     
     <li>Converting an existing project
