@@ -8,20 +8,20 @@ title: ScrumDo - Privacy Policy
 ----
 
 
-Last Updated: December 2013
+*Last Updated: December 2013*
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
 
 #### Categories of Information We Collect
 
-Information you provide to us -- When you register as a user on either a free or paid basis, and when you complete a contact form or send us an email, you provide us with information we collect. This information may include your ip address, name, physical address, email address, phone number, cell phone number, and other demographic information.  By providing us with this information you consent to it being collected, used, disclosed and stored by us in accordance with this privacy policy.
+**Information you provide to us --** When you register as a user on either a free or paid basis, and when you complete a contact form or send us an email, you provide us with information we collect. This information may include your ip address, name, physical address, email address, phone number, cell phone number, and other demographic information.  By providing us with this information you consent to it being collected, used, disclosed and stored by us in accordance with this privacy policy.
 
-Other information we receive and store -- When you visit our website, we store “cookies” to enhance your user experience.  “Cookies” are strings of alphanumeric data maintained on your computer.
+**Other information we receive and store --** When you visit our website, we store “cookies” to enhance your user experience.  “Cookies” are strings of alphanumeric data maintained on your computer.
 
 With cookies we become aware of and collect information about when you visit our website, when you use certain services, your browser type and version, your operating system and platform and other similar information. You may turn off all cookies that have been placed on your computer by following the instructions on your browser on how to block cookies that have been placed on your computer. If you block our cookies, however, it will be more difficult (and maybe even impossible) to use parts of our website and services.
 
-Information from other sources -- We may obtain additional information about you by using your email address or other information to directly, or through one or more services, search the internet and other sources. From these searches we may obtain information that appears to be related to your email address or other information such as a name, age and participation in social media websites.
+**Information from other sources --** We may obtain additional information about you by using your email address or other information to directly, or through one or more services, search the internet and other sources. From these searches we may obtain information that appears to be related to your email address or other information such as a name, age and participation in social media websites.
 
 #### Use and Disclosure of Personal Information
 
