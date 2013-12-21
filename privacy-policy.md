@@ -11,9 +11,11 @@ title: ScrumDo - Privacy Policy
 *Last Updated: December 2013*
      
      
+     
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
-
-
+     
+     
+        
 #### Categories of Information We Collect
 
 **Information you provide to us: ** When you register as a user on either a free or paid basis, and when you complete a contact form or send us an email, you provide us with information we collect. This information may include your ip address, name, physical address, email address, phone number, cell phone number, and other demographic information.  By providing us with this information you consent to it being collected, used, disclosed and stored by us in accordance with this privacy policy.
@@ -26,7 +28,8 @@ We may partner with third-party providers, such as Google, to display ads to you
 
 **Information from other sources --** We may obtain additional information about you by using your email address or other information to directly, or through one or more services, search the internet and other sources. From these searches we may obtain information that appears to be related to your email address or other information such as a name, age and participation in social media websites.
       
-
+      
+      
 #### Use and Disclosure of Personal Information
 
 we will use and disclose your personal information only as follows:
@@ -59,6 +62,7 @@ to meet legal requirements such as complying with court orders and valid subpoen
 * We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
      
      
+          
 #### Notification of Changes
 
 Any changes to this privacy policy will be posted to our website. If you’re a registered user, we may also email a notification to the last email address on record. Changes will become effective on the date we post them to our website.
@@ -68,7 +72,7 @@ You may object to any changes within twenty-one (21) days after they’re posted
 There may be non-marketing purposes for which we can’t or are not willing to treat information of user accounts differently.  So if you object to changes in our privacy policy which relate to those purposes we’ll have to terminate your account.  Should we ever changed our privacy policy to incorporate an expanded right to use or disclose personal information for marketing purposes, however, you’ll be able to opt out without any such termination.
      
      
-     
+          
 ### Company Info 
 
 ScrumDo LLC has been around since late **2010**.  Currently, we have over **45,000** registered users and over **1000** companies actively using ScrumDo to manage their projects.  
