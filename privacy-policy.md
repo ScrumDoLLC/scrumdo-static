@@ -6,7 +6,9 @@ title: ScrumDo - Privacy Policy
 
 # Privacy Policy
 ----
-last updated: December 2013
+
+
+Last Updated: December 2013
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -60,6 +62,9 @@ Any changes to this privacy policy will be posted to our website. If you’re a 
 You may object to any changes within twenty-one (21) days after they’re posted on our website, in which case none of the proposed changes will be effective with respect to information that we have already collected from you. Changes will apply, however, to information we collect or access from you in the future.
 
 There may be non-marketing purposes for which we can’t or are not willing to treat information of user accounts differently.  So if you object to changes in our privacy policy which relate to those purposes we’ll have to terminate your account.  Should we ever changed our privacy policy to incorporate an expanded right to use or disclose personal information for marketing purposes, however, you’ll be able to opt out without any such termination.
+
+
+
 
 
 # Company Info 
