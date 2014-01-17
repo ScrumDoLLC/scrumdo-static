@@ -1,9 +1,9 @@
---- layout: default title: ScrumDo -Lock in for a yearly low price!!
-
-
+---
+layout: default
+title: ScrumDo -Lock in for a yearly low price!!
+---
 
 Announcement of Upgrade offer
-
 
 
 ScrumDo customers are great!  You're constantly sharing ways we can improve your
