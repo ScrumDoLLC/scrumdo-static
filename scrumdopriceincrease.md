@@ -3,7 +3,7 @@ layout: default
 title: ScrumDo -Lock in for a yearly low price!!
 ---
 
-Announcement of Upgrade offer
+# Announcement of Upgrade offer
 
 
 ScrumDo customers are great!  You're constantly sharing ways we can improve your
@@ -29,15 +29,15 @@ Now, the really happy news --
 
 -   If you've been considering an upgrade to a higher plan level, doing so
     before February 1 will lock in current pricing for another year.  UPGRADE
-    now and lock in current pricing for another year!   [ HYPERLINK / BUTTON ]
+    now and lock in current pricing for another year!   <a class="btn btn-success btn-large" href="https://www.scrumdo.com/subscription/sub">Upgrade Now</a>
     Want to save even more?
 
 
 
-                    Pay for a yearly subscription and **get an additional 2
-                    months at no additional cost!**
+                    Pay for a yearly subscription and get an additional 2
+                    months at no additional cost!
 
-                    [ HYPERLINK / BUTTON ]
+                    <a class="btn btn-success btn-large" href="https://www.scrumdo.com/subscription/sub">Upgrade Now</a>
 
 
 
