@@ -13,6 +13,9 @@ Starting Feburary 1st, everyone on a free plan will be switched over to our curr
 includes 3 users, 1 project and is limited in some of our premium features.  For some people, this will
 be a significant downgrade.
 
+On Febuary 1st, our prices for the paid plans are also going up.  Subscribe before then to lock in the
+lower rates for a year.
+
 If you require more than that, we invite you to become a paying member of ScrumDo.  
 <center><a class="btn btn-success btn-large" href="https://www.scrumdo.com/subscription/sub">Upgrade Now</a></center>
 
