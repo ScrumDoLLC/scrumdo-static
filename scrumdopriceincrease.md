@@ -10,7 +10,7 @@ experience, and we try hard to respond to common needs.  Over the next few month
 you'll see some big improvements to ScrumDo that we will be announcing soon.
 
 Today, we start with some news that’s always hard to share.  **Effective February 1st,** we'll 
-be modifying our account plans.  Part of our changes include a
+be modifying our NEW account plans.  Part of our changes include a
 modest price increases across our paid plans.  This represents our first
 substantial price change since first launching ScrumDo over 3 years ago, and is
 necessary to keep assuring our reliability, support and continued product
