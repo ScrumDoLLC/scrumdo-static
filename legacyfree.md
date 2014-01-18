@@ -1,11 +1,11 @@
 ---
 layout: default
-title: ScrumDo -Lock in for a yearly low price!!
+title: ScrumDo - Legacy free plan changes
 ---
 
 # Free Plan Changes
 
-ScrumDo users are great!  We've been offering free plans for users since we started.  When we started,
+ScrumDo users are great!  We've been offering free plans for users since we started almost 4 years ago.  When we started,
 our free plans were much more generous than they are now, but we had grandfathered in those old free
 plans when we changed.
 
