@@ -5,12 +5,12 @@ title: Personal Projects
 
 ## What is a personal project?
 
-A personal project is only viewable by the creator of the project.  These are great for things like:
+A personal project is a way for members of an organization to track things that only they care about.  They are only viewable by the creator of the project.  These are great for things like:
 
-* Tracking confidential information that other employees shouldn't see
+* Tracking your personal work
+* Tracking confidential information that other employees shouldn't see, such as:
   * Track employee performance
   * Confidential contract status
-* Tracking your personal work
 
 You can create either a Scrum or a Kanban based personal project.  
 
@@ -20,13 +20,16 @@ Some differences of personal projects:
 
 * Third party extras are not available for personal projects.
 * Newsfeed and activity emails are not generated for personal projects.
+* Personal projects can not be part of a release.
 
 Please note, personal projects do count against your organization's subscription limit.
+
+Note: The name of the project, and the fact that it exists is visible to organization staff members.
 
 ## How to create a personal project.
 
 Select the Projects option from your organization's drop down menu in the top navbar.  If personal projects
-are enabled for your organization, you'll see a button in the upper right hand corner labeled "New personal Project".
+are enabled for your organization, you'll see a button in the lower right hand corner labeled "New personal Project".
 
 
 ## Disabling personal projects
