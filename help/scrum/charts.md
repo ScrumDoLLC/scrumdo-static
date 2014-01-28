@@ -28,3 +28,17 @@ While slightly harder to read than burndown charts, burnup charts give the addit
 The stacked charts are the hardest to read, but give the most complete picture of what went on in an iteration.  It lets you see how stories moved through their various statuses on their way to being complete.  On this particular team, an engineer will mark a story as "Reviewing" when it's implemented, and a QA engineer will mark it done.  The story it tells is:
 
 > We started our iteration, and after a couple days added a couple stories.  The engineers made steady progress and ran out of work in the last few days, so we pulled some more stories in.  The QA team had a slow start, but made great progress through the end of the iteration.  One story got blocked, and we were unable to resolve that by the end of the sprint.  
+
+### Time Based Charts
+
+![](https://scrumdo-cdn.s3.amazonaws.com/manual_uploads/timechart.png)
+
+Visually, the time based chart is very similar to the burn up charts.  The biggest difference is that instead of points, the chart is entirely measured in hours.
+It is driven off of the time estimates on your stories and time tracked by individual people.  
+
+In this example, the blue line represents the total estimate of all stories and tasks in this iteration.  The yellow
+line represents the actual amount of time spent.  The green section represents the estimate of stories that have
+been completed.
+
+When the yellow line is below your completed line, you are spending less time on your stories than estimated.  When it's
+above, you're spending more time than estimated.
