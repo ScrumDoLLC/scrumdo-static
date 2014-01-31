@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Scrumban and Why Should I Care?
+title: What is Scrumban & Why Should I Care?
 ---
 
 The ScrumDo team has been hard at work preparing to release a new set of features and functionality to ScrumDo.  We've already introduced some basic Kanban features, and what we have in store will build upon this base.  
@@ -8,7 +8,7 @@ The ScrumDo team has been hard at work preparing to release a new set of feature
 Existing users won't experience any major changes with our release -- unless they want to.  So we'd like to share a little more about how our tool supports the option to layer Kanban with Scrum, and why that might be important to you and your Scrum teams.
 
 
-##What is Scrumban and Why Should I Care?##
+###Some quick background###
 
 Respected “talking heads” in the software development community often seek to compare Scrum and Kanban.  Unfortunately, most of these comparisons are based on an incomplete understanding of both frameworks, leaving those on the receiving end with the distinct impression that employing either method represents a binary selection.  In reality, each predominately serves very different purposes.  Consequently, comparing the two is a bit like asking a racecar driver if the engine under the hood or the wheels on the ground is more important to being able to cross the finish line fastest.
 
