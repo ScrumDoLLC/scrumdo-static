@@ -3,6 +3,8 @@
 <li><a href="/help/navigating.html">Navigating the Site</a></li>
 <li><a href="/help/choosing.html">Help Choosing: Scrum or Kanban</a></li>
 <li><a href="/help/search.html">Searching</a></li>
+<li><a href="/help/personalprojects.html">Personal Projects</a></li>
+<li><a href="/help/timeestimates.html">Time estimates &amp; Tracking</a></li>
 </ul>
 
 <h2>Account &amp; Subscription</h2>
@@ -19,6 +21,7 @@
     <li><a href="/help/scrum/core.html">Core principles - Epics, Stories &amp; Iterations</a>   </li>
     <li><a href="/help/scrum/projectoptions.html">Scrum Project Options</a>   </li>
     <li><a href="/help/scrum/charts.html">Available Charts</a>   </li>
+
     
 </ul>
 
