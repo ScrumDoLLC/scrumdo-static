@@ -17,11 +17,9 @@ head:
     <a href="/blog">See All Posts</a>
 </div>
 
-<div class="main-content">    
-    <div id="body" class="container">                
-        <h1>{{page.title}} <small>{{page.date||date_to_string}}</small></h1>
-        {{content}}
-    </div>
+<div class="main-content">        
+            <h1>{{page.title}} <small>{{page.date||date_to_string}}</small></h1>
+            {{content}}            
 </div>
          
 {% include footer.html %}
