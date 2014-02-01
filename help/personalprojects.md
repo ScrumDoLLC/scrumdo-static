@@ -12,7 +12,7 @@ A personal project is a way for members of an organization to track things that 
   * Track employee performance
   * Confidential contract status
 
-You can create either a Scrum or a Kanban based personal project.  
+You can create either a Timebox(iteration/sprint) based or a flow(iterationless/Sprint less) based personal project.  
 
 Staff members of your organization can see that the project exists, but can not see the content of the project.
 
