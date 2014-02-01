@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Time Estimates
-published: false
 ---
 
 In our most recent release, we have added the ability to track time estimates for
