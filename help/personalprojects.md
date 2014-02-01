@@ -3,9 +3,9 @@ layout: help
 title: Personal Projects
 ---
 
-## What is a personal project?
+## What is a personal project/board?
 
-A personal project is a way for members of an organization to track things that only they care about.  They are only viewable by the creator of the project/board.  These are great for things like:
+A personal project or a 'personal kanban board' is a way for members of an organization to track things that only they care about.  They are only viewable by the creator of the project/board.  These are great for things like:
 
 * Tracking your personal work
   * Honey-Do lists
@@ -18,9 +18,10 @@ A personal project is a way for members of an organization to track things that 
   * Confidential contract status
   * Financial and budget process approvals
 
-You can create either a timebox(iteration/sprint) based or a flow(iterationless/sprint less) based personal project.  
 
-Staff members of your organization can see that the project exists, but can not see the content of the project.
+You can create either a timebox(iteration/sprint) based or a flow(iterationless/sprint less) based personal project.  
+Account owners or Staff members of your organization can see that the project exists, but can not see the content of your personal project/board.
+
 
 Some differences of personal projects:
 
@@ -28,9 +29,9 @@ Some differences of personal projects:
 * Newsfeed and activity emails are not generated for personal projects.
 * Personal projects can not be part of a release.
 
+
 Please note, personal projects do count against your organization's subscription limit.
 
-Note: The name of the project, and the fact that it exists is visible to organization staff members.
 
 ## How to create a personal project.
 
