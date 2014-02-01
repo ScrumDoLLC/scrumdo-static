@@ -5,14 +5,20 @@ title: Personal Projects
 
 ## What is a personal project?
 
-A personal project is a way for members of an organization to track things that only they care about.  They are only viewable by the creator of the project.  These are great for things like:
+A personal project is a way for members of an organization to track things that only they care about.  They are only viewable by the creator of the project/board.  These are great for things like:
 
 * Tracking your personal work
+  * Honey-Do lists
+  * Personal career goals
+  * To-read lists
+  * Personal ideations
+
 * Tracking confidential information that other employees shouldn't see, such as:
   * Track employee performance
   * Confidential contract status
+  * Financial and budget process approvals
 
-You can create either a Timebox(iteration/sprint) based or a flow(iterationless/Sprint less) based personal project.  
+You can create either a timebox(iteration/sprint) based or a flow(iterationless/sprint less) based personal project.  
 
 Staff members of your organization can see that the project exists, but can not see the content of the project.
 
