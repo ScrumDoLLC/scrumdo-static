@@ -3,7 +3,7 @@ layout: help
 title: Personal Projects
 ---
 
-## What is a personal project/board?
+## What is a personal project or a personal board?
 
 A personal project or a 'personal kanban board' is a way for members of an organization to track things that only they care about.  They are only viewable by the creator of the project/board.  These are great for things like:
 
@@ -12,6 +12,9 @@ A personal project or a 'personal kanban board' is a way for members of an organ
   * Personal career goals
   * To-read lists
   * Personal ideations
+
+* Product Owner Pre-planning:
+  * Pre-planning may be done and then stories promoted to team board backlogs
 
 * Tracking confidential information that other employees shouldn't see, such as:
   * Track employee performance
