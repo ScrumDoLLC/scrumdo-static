@@ -61,9 +61,9 @@ This screenshot shows two of the reports that we'll be releasing with initially,
 As part of all of this, we're also working on some big improvements to some areas that will affect both Iteration based and Iterations-less projects on ScrumDo.  Things like live-updates of the boards, and better high level planning tools.  Watch for those in upcoming months.
 
 
-### Scrumban Accredited training classes
+### Accredited Kanban training classes in partnership with Code Genesys/DJAA and Lean Kanban University
 
-To help organizations decide if, and how, to adopt Kanban principles and techniques to an process context, we've partnered with codegenesys.com to offer classes to organizations interested in accredited training.  Stay tuned here, or send us an email [ajay@codegenesys.com](mailto:ajay@codegenesys.com) and we'll add you to our list for more info.
+To help organizations decide if, and how, to adopt Kanban principles and techniques to an process context, we've partnered with codegenesys.com to offer classes(codegenesys.com/events) to organizations interested in accredited training.  Stay tuned here, or send us an email [ajay@codegenesys.com](mailto:ajay@codegenesys.com) and we'll add you to our list for more info.
 
 
 
