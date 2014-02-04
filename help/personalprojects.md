@@ -7,14 +7,17 @@ title: Personal Projects
 
 A personal project or a 'personal kanban board' is a way for members of an organization to track things that only they care about.  They are only viewable by the creator of the project/board.  These are great for things like:
 
+
 * Tracking your personal work
   * Honey-Do lists
   * Personal career goals
   * To-read lists
   * Personal ideations
 
+
 * Product Owner Pre-planning:
   * Pre-planning may be done and then stories promoted to team board backlogs
+
 
 * Tracking confidential information that other employees shouldn't see, such as:
   * Track employee performance
@@ -22,7 +25,7 @@ A personal project or a 'personal kanban board' is a way for members of an organ
   * Financial and budget process approvals
 
 
-You can create either a timebox(iteration/sprint) based or a flow(iterationless/sprint less) based personal project.  
+You can create either a timebox (iteration/sprint) based or a flow (iterationless/sprint less) based personal project.  
 Account owners or Staff members of your organization can see that the project exists, but can not see the content of your personal project/board.
 
 
