@@ -47,7 +47,7 @@ Very simply a user would create a 'personal kanban board' to visualize, organize
 You can create either a timebox (iteration/sprint) based or a flow (iterationless/sprint less) based personal project.  
 
 ## Who can see my personal stuff?
-Account owners or Staff members of your organization can see that the project exists, but can not see the content of your personal project/board.
+Only you. Account owners or Staff members of your organization can see that the project exists, but CANNOT see the content of your personal project/board.
 
 
 ## Personal boards vs Team boards
