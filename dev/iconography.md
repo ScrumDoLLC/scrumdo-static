@@ -5,6 +5,8 @@ title: ScrumDo Iconography
 
 ## Icon usage in ScrumDo:
 
+<i class="icon-upload-alt"></i>
+Used for Uploads &lt;i class=&quot;icon-upload-alt&quot;&gt; 
 
 <i class="icon-plus-sign-alt"></i>
 Used for Addons &lt;i class=&quot;icon-plus-sign-alt&quot;&gt;    
