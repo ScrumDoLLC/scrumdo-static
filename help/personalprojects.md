@@ -1,8 +1,7 @@
 ---
 layout: help
+title: Personal Kanban- Get more out of your time and do things you really care about
 ---
-
-# Personal Kanban- Get more out of your time and do things you really care about
 
 Personal Kanban is a very simple and effective way of managing life, family, school or work. It's a tool to help organize and increase your personal productivity. It's' simple to learn and use and is super easy to personalize.
 
