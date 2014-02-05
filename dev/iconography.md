@@ -5,6 +5,9 @@ title: ScrumDo Iconography
 
 ## Icon usage in ScrumDo:
 
+<i class="icon-signout"></i>
+Used for signout  &lt;i class=&quot;icon-signout&quot;&gt; 
+
 <i class="icon-upload-alt"></i>
 Used for Uploads &lt;i class=&quot;icon-upload-alt&quot;&gt; 
 
