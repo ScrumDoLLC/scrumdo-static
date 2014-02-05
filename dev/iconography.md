@@ -8,8 +8,11 @@ title: ScrumDo Iconography
 <i class="icon-signout"></i>
 Used for signout  &lt;i class=&quot;icon-signout&quot;&gt; 
 
-<i class="icon-upload-alt"></i>
-Used for Uploads &lt;i class=&quot;icon-upload-alt&quot;&gt; 
+<i class="icon-cloud-download"></i>
+Used for download  &lt;i class=&quot;icon-cloud-download&quot;&gt; 
+
+<i class="icon-cloud-upload"></i>
+Used for Uploads &lt;i class=&quot;icon-cloud-upload&quot;&gt; 
 
 <i class="icon-plus-sign-alt"></i>
 Used for Addons &lt;i class=&quot;icon-plus-sign-alt&quot;&gt;    
