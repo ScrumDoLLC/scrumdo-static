@@ -5,6 +5,10 @@ title: ScrumDo Iconography
 
 ## Icon usage in ScrumDo:
 
+<i class="icon-3x icon-istrikethrough"> </i>
+Loading &lt;i class=&quot;icon-istrikethrough&quot;&gt;  
+
+
 <i class="icon-3x icon-refresh icon-spin"> </i>
 Loading &lt;i class=&quot;icon-refresh icon-spin&quot;&gt;  
 
