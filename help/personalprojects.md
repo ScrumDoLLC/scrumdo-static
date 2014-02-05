@@ -5,7 +5,7 @@ title: Personal Kanban- Get more out of your time and do things you really care 
 
 Personal Kanban is a very simple and effective way of managing life, family, school or work. It's a tool to help organize and increase your personal productivity. It's' simple to learn and use and is super easy to personalize.
 
-## Tell me more...
+### Tell me more...
 
 Very simply a user would create a 'personal kanban board' to visualize, organize, analyze and manage their personal stuff.  It may relate to work or life  - to track things that only they care about.  Personal Boards are only viewable by the creator of the board.  These are great for things like:
 
@@ -58,10 +58,14 @@ Only you. Account owners or Staff members of your organization can see that the 
 
 Please note, personal projects do count against your organization's subscription limit.
 
+![PersonalKanan2.png](./images/PersonalKanban2.png)
 
 ## How to create a personal board
 
 1. Select the "Projects" option from your organization's drop down menu in the top navbar. Of course, a home can be an organization. If personal projects are enabled for your organization, you'll see a button in the lower right hand corner labeled "New Personal Project".
+
+![personalprojectbutton.png](./images/personalprojectbutton.png)
+
 
 2. You can choose a project to be an iteration based project or a personal Kanban board (Flow based). We recommend the latter because of it's flexibility.
 
