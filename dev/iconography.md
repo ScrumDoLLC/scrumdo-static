@@ -4,6 +4,8 @@ title: ScrumDo Iconography
 ---
 
 ## Icon usage in ScrumDo:
+<i class="icon-3x icon-stethoscope"></i> 
+Used for help/support  &lt;i class=&quot;icon-stethoscope&quot;&gt; 
 
 <i class="icon-signout"></i>
 Used for signout  &lt;i class=&quot;icon-signout&quot;&gt; 
