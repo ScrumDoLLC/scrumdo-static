@@ -5,6 +5,14 @@ title: ScrumDo Iconography
 
 ## Icon usage in ScrumDo:
 
+
+<i class="icon-plus-sign-alt"></i>
+Used for Addons &lt;i class=&quot;icon-plus-sign-alt&quot;&gt;    
+
+
+<i class="icon-briefcase"></i> icon-briefcase
+Used for Projects List/Create new Projects Page. &lt;i class=&quot;icon-briefcase&quot;&gt;    
+
 <i class="icon-3x icon-globe"> </i>
 Used for Organization and Project Summary. &lt;i class=&quot;icon-globe&quot;&gt;    
 
