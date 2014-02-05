@@ -1,6 +1,5 @@
 ---
 layout: help
-title: Personal Projects
 ---
 
 # Personal Kanban- Get more out of your time and do things you really care about
@@ -12,7 +11,7 @@ Personal Kanban is a very simple and effective way of managing life, family, sch
 Very simply a user would create a 'personal kanban board' to visualize, organize, analyze and manage their personal stuff.  It may relate to work or life  - to track things that only they care about.  Personal Boards are only viewable by the creator of the board.  These are great for things like:
 
 
-### Individual and families tracking personal work
+#### Individual and families tracking personal work
 - Honey-Do lists
 - Personal career goals
 - To-read lists
@@ -23,24 +22,24 @@ Very simply a user would create a 'personal kanban board' to visualize, organize
 - Bucket lists 
 - Get the idea?
 
-### Tracking school work
+#### Tracking school work
 - Routine home work
 - Special project work
 
-### Personal training routine
+#### Personal training routine
 - Work out schedule
 - Training goals
 
-### Product-Owner pre-planning
+#### Product-Owner pre-planning
 - Pre-planning may be done and then stories promoted to team board backlogs
 
 
-### Tracking confidential information
+#### Tracking confidential information
 - Track employee performance
 - Confidential contract status
 - Financial and budget process approvals
 
-### CEO
+#### CEO
 - Portfolio initiative planning
 - Sales tracking
 - Budget planning
