@@ -6,8 +6,7 @@ title: ScrumDo Iconography
 ## Icon usage in ScrumDo:
 
 <i class="icon-3x icon-globe"> </i>
-Loading &lt;i class=&quot;icon-globe&quot;&gt;  
-Used for Organization and Project Summary
+Used for Organization and Project Summary. &lt;i class=&quot;icon-globe&quot;&gt;    
 
 <i class="icon-3x icon-refresh icon-spin"> </i>
 Loading &lt;i class=&quot;icon-refresh icon-spin&quot;&gt;  
