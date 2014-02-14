@@ -4,6 +4,27 @@ title: ScrumDo Iconography
 ---
 
 ## Icon usage in ScrumDo:
+<i class="icon-3x icon-stethoscope"></i> 
+Used for help/support  &lt;i class=&quot;icon-stethoscope&quot;&gt; 
+
+<i class="icon-3x icon-signout"></i>
+Used for signout  &lt;i class=&quot;icon-signout&quot;&gt; 
+
+<i class="icon-3x icon-cloud-download"></i>
+Used for download  &lt;i class=&quot;icon-cloud-download&quot;&gt; 
+
+<i class="icon-3x icon-cloud-upload"></i>
+Used for Uploads &lt;i class=&quot;icon-cloud-upload&quot;&gt; 
+
+<i class="icon-3x icon-plus-sign-alt"></i>
+Used for Addons &lt;i class=&quot;icon-plus-sign-alt&quot;&gt;    
+
+
+<i class="icon-3x icon-briefcase"></i> icon-briefcase
+Used for Projects List/Create new Projects Page. &lt;i class=&quot;icon-briefcase&quot;&gt;    
+
+<i class="icon-3x icon-globe"> </i>
+Used for Organization and Project Summary. &lt;i class=&quot;icon-globe&quot;&gt;    
 
 <i class="icon-3x icon-refresh icon-spin"> </i>
 Loading &lt;i class=&quot;icon-refresh icon-spin&quot;&gt;  
