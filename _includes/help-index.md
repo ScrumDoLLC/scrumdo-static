@@ -31,7 +31,8 @@
 
 <ul>
     <li><a href="/help/video/kanbanintro.html">Video Intro</a></li>
-    <li><a href="/help/kanban/core.html">Core principles - Cells &amp; Workflows</a></li>
+    <li><a href="/help/kanban/core.html">Core principles - Cells &amp; Report Profiles</a></li>
+    <li><a href="/help/kanban/stats.html">Dashboard Stats</a></li>
     
     <li>Converting an existing project
         <ul>
