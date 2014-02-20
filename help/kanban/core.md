@@ -7,7 +7,7 @@ title: Kanban Core Principles - Cards, Cells &amp; Workflows
 
 # Cards
 
-With the introduction of Kanban projects, ScrumDo is using the term "Card" instead of "Story".  A card is a representation of a unit of work.  In Kanban projects, you can set up custom card types under your project admin options.  Some common types include:
+With the introduction of Flow type projects, ScrumDo is using the term "Card" instead of "Story".  A card is a representation of a unit of work.  In Flow based projects, you can set up custom card types under your project admin options.  Some common types include:
 
 * User Stories
 * Bugs
