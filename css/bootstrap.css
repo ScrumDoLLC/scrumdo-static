@@ -27,6 +27,23 @@ img {
 vertical-align: middle;
 }
 
+.processhead{
+	color: #ffffff;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);	
+	font-size: 30px;
+	font-family: 'Montserrat', Arial, sans-serif;
+	
+}
+
+.processimgtext{
+	color: #f3f3f3;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);	
+	font-size: 16px;
+	padding-left: 10px;
+	font-family: 'Montserrat', Arial, sans-serif;
+	
+}
+
 .btn 
 {
 	display: inline-block;
@@ -53,6 +70,7 @@ vertical-align: middle;
 	-ms-user-select: none;
 	-o-user-select: none;
 	user-select: none;
+	
 }
 .btn-success
 {
