@@ -3,7 +3,7 @@ layout: help
 title: Kanbanize Project
 ---
 
-You can convert an existing ScrumDo Scrum based project into a Kanban project using our Kanbanize wizard.  You can find this wizard on the project admin page for your scrum project.
+You can convert an existing ScrumDo Timebox based project into a Flow based project using our Project conversion wizard.  You can find this wizard on the project admin page for your scrum time box project.
 
 ###About the conversion process
 

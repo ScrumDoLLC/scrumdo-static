@@ -20,10 +20,10 @@ Scrum encourages feedback loops in retrospectives.
 
 In teams that have buy in from leadership, business, and IT Scrum continues to prove to be successful in companies across the globe.  Our commitment to providing a great Scrum tool will continue.
 
-**And a look at Kanban**
+**And a look at the Kanban method**
 
-Kanban is a lean change management method that can be applied to Scrum for any organization. 
-It encourages a systems-view of work, process, and teams.  Kanban encourages a service oriented way of thinking and promotes sustainable change.
+Kanban is a lean change management method that can be applied to Scrum for any organization. "The Kanban method" includes "kanban" (lower case k) as a mechanism to manage the flow of value in projects.
+It encourages a systems-view of work, process, and teams.  The Kanban method encourages a service oriented way of thinking and promotes sustainable change.
 
 The core practices of Kanban are:
 - Visualize your workflow
@@ -33,13 +33,13 @@ The core practices of Kanban are:
 - Implement feedback mechanisms
 - Improve collaboratively, evolve experimentally (using models & the scientific method)
 
-Kanban principles can be applied to the Scrum Process to pragmatically evolve it. It can evolve to a form where the the traditional iteration or time-box of a scrum is replaced by continuous flow. As we will explain in future blog articles this does not always have to be. Teams that practices Kanban and Scrum may have time-boxes or may not. 
+Kanban principles can be applied to the Scrum Process to pragmatically evolve it. It can evolve to a form where the the traditional iteration or time-box of a scrum is replaced by continuous flow. As we will explain in future blog articles this does not always have to be. Teams that practices Kanban and Scrum may have time-boxes or may not. Projects in scrumdo can be created as or converted to flow based projects. 
 
 ### Continuous Flow Projects in ScrumDo
 
 For the past couple months, we've been working on adding the ability to create a Kanban application to Scrum projects within ScrumDo that can support mature teams that practice continuos flow.  Some of the big changes include:
 
-* Options to choose time-boxed(iterations) projects or iteration-less projects
+* Options to choose time-boxed(iterations) projects or continous flow projects
 * Ability to completely customize your workflow, and have more than one in a project
 * Completely configurable visual board
 * Brand new ways to report on the work done
@@ -63,7 +63,7 @@ As part of all of this, we're also working on some big improvements to some area
 
 ### Accredited Kanban training classes in partnership with Code Genesys/DJAA and Lean Kanban University
 
-To help organizations decide if, and how, to adopt Kanban principles and techniques to an process context, we've partnered with codegenesys.com to offer classes(codegenesys.com/events) to organizations interested in accredited training.  Stay tuned here, or send us an email [ajay@codegenesys.com](mailto:ajay@codegenesys.com) and we'll add you to our list for more info.
+To help organizations decide if, and how, to adopt Kanban principles and techniques to an process context, we've partnered with codegenesys.com to offer classes(codegenesys.com/events) to organizations interested in accredited training.  Stay tuned here, or send us an email [sales@codegenesys.com](mailto:ajay@codegenesys.com) and we'll add you to our list for more info.
 
 
 

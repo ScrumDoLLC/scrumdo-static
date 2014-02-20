@@ -3,11 +3,11 @@ layout: post
 title: Kanban Board Features
 ---
 
-We're currently running a beta program with a few select companies to help refine our new Kanban project features.  I'm writing this post today to tell you about some of the things you'll be able to look forward to when these are released to everyone.
+We're currently running a beta program with a few select companies to help refine our new Continuous Flow project features.  I'm writing this post today to tell you about some of the things you'll be able to look forward to when these are released to everyone.
 
 # Cards
 
-With the introduction of Kanban projects, ScrumDo is using the term "Card" instead of "Story".  A card is a representation of a unit of work.  In Kanban projects, you can set up custom card types under your project admin options.  Some common types include:
+With the introduction of Continuous Flow projects, ScrumDo is using the term "Card" instead of "Story".  A card is a representation of a unit of work.  In Flow projects, you can set up custom card types under your project admin options.  Some common types include:
 
 * User Stories
 * Bugs
