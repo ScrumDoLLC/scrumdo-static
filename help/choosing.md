@@ -23,4 +23,4 @@ title: Timebox or Continuous Flow?
 | **Workflow** | Single, customizable workflow per project | Multiple custom workflows per project. |
 | **Visual Board** | Simple, easy to use, status board. | Fully configurable Kanban board. |
 | **Work Breakdown** | Epics, Stories &amp; Tasks | Epics/Features, Stories &amp; Tasks |
-| **Conversion** | Can be converted to Flow based Project | Can NOT be converted to Scrum Project but future release will have the ability to iterations in Flow based projects|
+| **Conversion** | Can be converted to Flow based Project | Can NOT be converted to Scrum Project <br/> Future release will have the ability to iterations in Flow based projects|
