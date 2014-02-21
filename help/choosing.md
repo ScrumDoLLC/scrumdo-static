@@ -14,7 +14,7 @@ title: Timebox or Continuous Flow?
 ### Comparison Matrix
 
 |               | Timebox Projects           | Continuous Flow Projects  |
-| ------------- |--------------------------|------------------|
+| ------------- |:--------------------------|------------------:|
 | **Iterations or Sprints**       | Yes |  No  |
 | **Cadence**       | Planning and release tend to be synchronized |  Not necessary to planning and release synchronized  |
 | **Reporting**      | Burndown / Burnup charts      | Continuous flow diagrams &amp; Lead time histograms |
