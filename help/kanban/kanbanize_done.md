@@ -9,4 +9,4 @@ After you finish the wizard, it may take several minutes for your project to be 
 
 At this point, you can feel free to edit the default board that was generated for you, or start using your new project right away.
 
-Once you have decided to migrate to you Kanban project, you'll probably want to archive your old Scrum project so nobody uses it by accident, and also so it doesn't count against your subscription limits.
+Once you have decided to migrate to you Flow based project, you'll probably want to archive your old Time-box based Scrum project so nobody uses it by accident, and also so it doesn't count against your subscription limits.

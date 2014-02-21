@@ -4,7 +4,7 @@ title: Kanbanize WIP Limits
 ---
 
 
-While converting an existing Scrum project to a Kanban project, you will be asked to specify WIP limits in a table format like
+While converting an existing Time box project to a Continuous Flow project, you will be asked to specify WIP limits in a table format like
 the one below.
 
 ![WIP Grid](images/kanbanize_wip.png)
