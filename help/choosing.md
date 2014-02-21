@@ -1,6 +1,6 @@
 ---
 layout: help
-title: Timebox or Continuous Flow?
+title: "Time boxed" or "Continuous Flow"?
 ---
 
 ### Introduction
