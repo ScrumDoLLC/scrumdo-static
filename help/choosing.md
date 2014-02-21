@@ -5,9 +5,18 @@ title: Timebox or Continuous Flow?
 
 ### Introduction
 
- A time-box is an Iteration or Sprint in Scrum. Choosing whether to create a "Time box" based or a "Continuous Flow" based project is one of your first decisions points when you create a project in ScrumDo. If you are doing traditional Scrum then time-boxed based projects should be the right fit for you. 
+ Choosing whether to create a "Time box" based or a "Continuous Flow" based project is one of your first decisions points, when you create a project in ScrumDo. 
 
- This page aims to help you understand some of the differences between "Timebox" and "Continuous Flow" projects in ScrumDo. You can convert a time box based project to a continuous flow project from your Project Admin options.
+A time-box is an Iteration or a Sprint in ScrumDo. If you are doing traditional Scrum then time-boxed based projects should be the right fit for you. 
+
+Generally speaking, time box projects works best when you want to have a fixed cadence of time in which you want to deliver work regularly. Work is more or less defined by a product owner and accepted & delivered by a mature team.
+
+Again generalizing, continuous flow projects works best when you have less defined pieces of work to be done.
+
+This page aims to help you understand some of the differences between "Timebox" and "Continuous Flow" projects in ScrumDo. 
+
+Scrumban allows project administrators to seamlessly convert an timebox-based project to continuous flow.  Presently, however, the reverse is not true.  Once a continuous flow framework has been selected for a project, you won't be able to return to time-boxed iterations (yet...  future releases will include this capability).
+
 
 -----
 
