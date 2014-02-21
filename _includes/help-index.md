@@ -1,7 +1,7 @@
 <h2>General</h2>
 <ul>
 <li><a href="/help/navigating.html">Navigating the Site</a></li>
-<li><a href="/help/choosing.html">Help Choosing: Scrum or Kanban</a></li>
+<li><a href="/help/choosing.html">Help Choosing: Timebox or Continuous Flow</a></li>
 <li><a href="/help/search.html">Searching</a></li>
 <li><a href="/help/personalprojects.html">Personal Projects</a></li>
 <li><a href="/help/timeestimates.html">Time estimates &amp; Tracking</a></li>
@@ -15,11 +15,11 @@
 </ul>
 
 
-<h2>Scrum Projects</h2>
+<h2>Time boxed Projects</h2>
 <ul>
     <li><a href="/help/video/scrumintro.html">Video Intro</a></li>
     <li><a href="/help/scrum/core.html">Core principles - Epics, Stories &amp; Iterations</a>   </li>
-    <li><a href="/help/scrum/projectoptions.html">Scrum Project Options</a>   </li>
+    <li><a href="/help/scrum/projectoptions.html">Project Admin Options</a>   </li>
     <li><a href="/help/scrum/charts.html">Available Charts</a>   </li>
 
     
@@ -27,7 +27,7 @@
 
 
 
-<h2>Kanban Projects</h2>
+<h2>Continuous Flow Projects</h2>
 
 <ul>
     <li><a href="/help/video/kanbanintro.html">Video Intro</a></li>
