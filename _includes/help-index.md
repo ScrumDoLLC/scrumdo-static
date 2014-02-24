@@ -15,7 +15,7 @@
 </ul>
 
 
-<h2>Scrum Projects</h2>
+<h2>Time boxed Projects</h2>
 <ul>
     <li><a href="/help/video/scrumintro.html">Video Intro</a></li>
     <li><a href="/help/scrum/core.html">Core principles - Epics, Stories &amp; Iterations</a>   </li>
@@ -27,7 +27,7 @@
 
 
 
-<h2>Kanban Projects</h2>
+<h2>Continuous Flow Projects</h2>
 
 <ul>
     <li><a href="/help/video/kanbanintro.html">Video Intro</a></li>
