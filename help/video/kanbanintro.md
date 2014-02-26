@@ -3,4 +3,4 @@ layout: help
 title: Kanban Intro
 ---
 
-<iframe width="853" height="480" src="//www.youtube.com/embed/JCKz9lSCqjk?hd=1" frameborder="0" allowfullscreen="true"></iframe>
+<iframe src="//player.vimeo.com/video/87630468?byline=0&amp;portrait=0" width="1000" height="562" frameborder="0" ></iframe>
