@@ -431,6 +431,8 @@ span.rollover:hover {
 	margin-top: 40px;
 }
 
+
+
 .product-teaser .left-desc:after{
 	background: url(../img/arrow1.png) right no-repeat;
 	content: '';
@@ -439,6 +441,49 @@ span.rollover:hover {
 	display: block;
 	margin-top: 20px;
 }
+
+.span-righttop{
+	margin-top: -534px;
+	padding-left: 20px;
+}
+
+.span-righttopbtm{
+	margin-top: -423px;
+	margin-right: 80px;
+	float: right;
+}
+
+.product-teaser .lefttop-desc:after{
+	background: url(../img/arrow2.png) right no-repeat;
+	content: '';
+	height: 123px;
+	width: 100%;
+	display: block;
+	margin-top: -99px;
+	margin-left: 131px;
+}
+
+.product-teaser .leftbottom-desc:after{
+	background: url(../img/arrow5.png) right no-repeat;
+	content: '';
+	height: 123px;
+	width: 100%;
+	display: block;
+	margin-top: -159px;
+	margin-left: 94px;
+	
+	
+}
+
+.product-teaser .righttop-desc:after{
+	background: url(../img/arrow4.png) right no-repeat;
+	content: '';
+	height: 123px;
+	width: 100%;
+	display: block;
+	margin-top: -134px;
+	margin-left: -295px;
+	}
 
 .product-teaser .right-desc{
 	margin-top: 70px;
@@ -753,6 +798,22 @@ ul.annotations-features li{
 	background-color: #fff;
 	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4), 0 1px 5px rgba(130, 130, 130, 0.35);
 	margin-bottom: 40px;
+}
+
+.gold{
+	
+	padding:20px !important;
+
+}
+
+.bestvalue{
+	
+	color: #2187DF;
+	font-size: 17px;
+	line-height: 45px;
+	text-transform: uppercase;
+	font-weight: bold;
+	
 }
 
 .pricing-table.popular:before{
