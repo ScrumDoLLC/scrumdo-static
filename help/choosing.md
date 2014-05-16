@@ -24,7 +24,7 @@ Scrumban allows project administrators to seamlessly convert an "Time boxed" pro
 
 |               | "Time boxed" Projects           | "Continuous flow" Projects  |
 | :------------- |:--------------------------|:------------------|
-| **Iterations or Sprints**       | Yes |  No  |
+| **Iterations or Sprints**       | Yes |  Optional  |
 | **Cadence**       | Planning and release tend to be synchronized |  Not necessary to planning and release synchronized  |
 | **Reporting**      | Burndown / Burnup charts      | Continuous flow diagrams &amp; Lead time histograms |
 | **Emphasis On** | Story Points &amp; Velocity | Work in Progress &amp; Lead Time |
@@ -32,4 +32,4 @@ Scrumban allows project administrators to seamlessly convert an "Time boxed" pro
 | **Work flow** | Single, customizable work flow per project | Multiple custom work flows per project. |
 | **Visual Board** | Simple, easy to use, status board. | Fully configurable Kanban board. |
 | **Work Breakdown** | Epics, Stories &amp; Tasks | Epics/Features, Stories &amp; Tasks |
-| **Conversion** | Can be converted to "Continuous Flow"  Project | Can NOT be converted to Scrum Project <br/> Future release will have the ability to iterations in "Continuous Flow" projects|
+| **Conversion** | Can be converted to "Continuous Flow"  Project | Can NOT be converted to Scrum Project |
