@@ -105,7 +105,7 @@ section{
 }
 
 hr{
-	
+
 }
 
 .title{
@@ -114,6 +114,37 @@ hr{
 
 .centered{
 	text-align: center !important;
+}
+
+.righttext{
+	text-align: right !important;
+}
+
+.downloadboxnew{
+	
+	float:right; padding:15px;
+	 margin-left:10px; 
+	 margin-top:10px; 
+	 border:1px solid #666666; 
+	 background-color:#eeeeee; 
+	 border-radius:4px; 
+	 text-align:center;
+}
+
+.fontdownload{
+	
+	font-family: 'entypo';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	color: #333;
+	font-size: 14px;
+
+	
 }
 
 .uppercase{
@@ -413,7 +444,7 @@ span.rollover:hover {
 
 /* Product Teaser */
 .product-teaser{
-	margin-top: 60px;
+	margin-top: 0px;
 	margin-bottom: 40px;
 	border-bottom: 1px solid #000;
 	box-shadow: 0 1px 0 rgba(255,255,255,.2);
@@ -428,18 +459,18 @@ span.rollover:hover {
 }
 
 .product-teaser .left-desc{
-	margin-top: 40px;
+	margin-top: 0px;
 }
 
 
 
 .product-teaser .left-desc:after{
-	background: url(../img/arrow1.png) right no-repeat;
+	background: url(../img/arrow1small.png) right no-repeat;
 	content: '';
-	height: 123px;
+	height: 52px;
 	width: 100%;
 	display: block;
-	margin-top: 20px;
+	margin-top: -2px;
 }
 
 .span-righttop{
@@ -471,8 +502,8 @@ span.rollover:hover {
 	display: block;
 	margin-top: -159px;
 	margin-left: 94px;
-	
-	
+
+
 }
 
 .product-teaser .righttop-desc:after{
@@ -490,12 +521,12 @@ span.rollover:hover {
 }
 
 .product-teaser .right-desc:before{
-	background: url(../img/arrow2.png) left no-repeat;
+	background: url(../img/arrow2small.png) left no-repeat;
 	content: '';
-	height: 123px;
+	height: 65px;
 	width: 100%;
 	display: block;	
-	margin-bottom: 20px;
+	margin-top: -96px;
 }
 
 .product-teaser span.play-button {
@@ -712,32 +743,32 @@ span.rollover:hover {
 		margin-left: 150px;
 		margin-top: 321px;
 	}
-	
+
 	.product-dot3{
 		margin-left: 613px;
 		margin-top: 471px;
 	}
-	
+
 	.product-dot4{
 		margin-left: 43px;
 		margin-top: 541px;
 	}
-	
+
 	.product-dot5{
 		margin-left: 152px;
 		margin-top: 541px;
 	}
-	
+
 	.product-dot6{
 		margin-left: 836px;
 		margin-top: 490px;
 	}
-	
+
 	.product-dot7{
 		margin-left: 190px;
 		margin-top: 440px;
 	}
-	
+
 	.product-dot8{
 		margin-left: 696px;
 		margin-top: 85px;
@@ -801,19 +832,19 @@ ul.annotations-features li{
 }
 
 .gold{
-	
+
 	padding:20px !important;
 
 }
 
 .bestvalue{
-	
+
 	color: #2187DF;
 	font-size: 17px;
 	line-height: 45px;
 	text-transform: uppercase;
 	font-weight: bold;
-	
+
 }
 
 .pricing-table.popular:before{
@@ -1211,5 +1242,5 @@ div.hopscotch-bubble .hopscotch-nav-button.next:hover{
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 0px;
-	
+
 }
