@@ -1,6 +1,6 @@
 ---
 layout: help
-title: Kanban Core Principles - Cards, Cells &amp; Workflows
+title: Scrumban Core Principles - Cards, Cells &amp; Workflows
 ---
 
 ----
@@ -33,14 +33,19 @@ You can create 1-unit high cells that will have no body.  These are useful to ap
 
 ----
 
-# Workflows
+# Report Profiles
 
-Workflows are used to define the steps of work a unit of work must go through.  ScrumDo uses Workflows to define the reports that can be run against your project.
+Report Profiles are used to define the steps of work a unit of work must go through.  
+ScrumDo uses Report Profiles to define the reports that can be run against your project.
 
-A workflow is made up of a series of workflow steps.
+A profile is made up of a series of steps.
 
 Each step is associated with one or more cells on your board.
 
-Since more than once cell can be associated with a step, and not all cells need to be accounted for, this gives you the ability to filter and summarize your reports.  For instance, you might set up a workflow for each class of service on your board, and a separate workflow that cuts across them all for an overall summary view.
+Since more than once cell can be associated with a step, 
+and not all cells need to be accounted for, this gives you 
+the ability to filter and summarize your reports.  For instance, 
+you might set up a workflow for each class of service on your board, 
+and a separate workflow that cuts across them all for an overall summary view.
 
 
