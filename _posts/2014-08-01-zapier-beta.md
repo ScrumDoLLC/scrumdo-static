@@ -4,9 +4,11 @@ title: Zapier Beta
 ---
 
 Over the past week, we've spent some time integrating with [Zapier](http://www.zapier.com/) so that you
-can make ScrumDo work with over 200 other services.  Zapier allows you to
+can make ScrumDo work with over 300 other services.  Zapier allows you to
 create conduits between applications called Zaps.  We're currently in a beta to make this
 as useful as possible - [beta invite link](https://zapier.com/developer/invite/11386/3e0a986d0584793c9b6f0ec3893a5b90/).
+
+#### What can you do with it?
 
 Here are some of the zaps I've been testing with:
 
