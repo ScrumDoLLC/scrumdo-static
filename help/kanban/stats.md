@@ -3,7 +3,7 @@ layout: help
 title: Dashboard Stats
 ---
 
-On your organizational dashboard, you'll see a series of stats for your continuous flow projects like the one below.
+On your organizational dashboard, you'll see a series of stats for your Scrumban projects like the one below.
 
 
 <b>Example Stats:</b>
