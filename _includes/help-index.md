@@ -2,6 +2,8 @@
 <ul>
 <li><a href="/help/navigating.html">Navigating the Site</a></li>
 <li><a href="/help/choosing.html">Help Choosing: Scrum or Scrumban</a></li>
+<li><a href="/help/epics.html">Epics</a></li>
+<li><a href="/help/story.html">Story</a></li>
 <li><a href="/help/search.html">Searching</a></li>
 <li><a href="/help/personalprojects.html">Personal Projects</a></li>
 <li><a href="/help/timeestimates.html">Time estimates &amp; Tracking</a></li>
@@ -18,7 +20,7 @@
 <h2>Scrum Projects</h2>
 <ul>
     <li><a href="/help/video/scrumintro.html">Video Intro</a></li>
-    <li><a href="/help/scrum/core.html">Core principles - Epics, Stories &amp; Iterations</a>   </li>
+    <li><a href="/help/scrum/iteration.html">Iterations</a>   </li>
     <li><a href="/help/scrum/projectoptions.html">Project Admin Options</a>   </li>
     <li><a href="/help/scrum/charts.html">Available Charts</a>   </li>
 
