@@ -1,10 +1,7 @@
-
 ---
 layout: help
 title: Iterations
 ---
-
-----
 
 ## Iteration
 
