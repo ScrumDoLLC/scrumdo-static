@@ -1,6 +1,6 @@
 ---
 layout: help
-title: Scrum Core Principles - Epics, Stories &amp; Iterations
+title: User Stories
 ---
 
 ----
