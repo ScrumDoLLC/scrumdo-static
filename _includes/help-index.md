@@ -8,6 +8,7 @@
 <li><a href="/help/chat.html">Chat</a></li>
 <li><a href="/help/personalprojects.html">Personal Projects</a></li>
 <li><a href="/help/timeestimates.html">Time estimates &amp; Tracking</a></li>
+<li><a href="/help/export.html">Exports</a></li>
 </ul>
 
 <h2>Account &amp; Subscription</h2>
