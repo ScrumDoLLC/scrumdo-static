@@ -5,6 +5,7 @@
 <li><a href="/help/epics.html">Epics</a></li>
 <li><a href="/help/story.html">User Stories</a></li>
 <li><a href="/help/search.html">Searching</a></li>
+<li><a href="/help/chat.html">Chat</a></li>
 <li><a href="/help/personalprojects.html">Personal Projects</a></li>
 <li><a href="/help/timeestimates.html">Time estimates &amp; Tracking</a></li>
 </ul>
