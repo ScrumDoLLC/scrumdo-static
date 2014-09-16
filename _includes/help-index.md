@@ -21,6 +21,7 @@
 <ul>
     <li><a href="/help/video/scrumintro.html">Video Intro</a></li>
     <li><a href="/help/scrum/iteration.html">Iterations</a>   </li>
+    <li><a href="/help/scrum/iterationplanning.html">Iteration Planning</a>   </li>
     <li><a href="/help/scrum/projectoptions.html">Project Admin Options</a>   </li>
     <li><a href="/help/scrum/charts.html">Available Charts</a>   </li>
 
