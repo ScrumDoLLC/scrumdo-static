@@ -8,7 +8,7 @@ Over the past year, the ScrumDo team has worked to make ScrumDo more powerful, e
 
 #### Cleaner Navigation &amp; Design
 
-<img src="../img/wireframe-dashboard.jpg" style="float: left; margin: 0 0 5px 8px" />
+<img src="/images/blog/wireframe-dashboard.jpg" style="float: left; margin: 0 0 5px 8px" />
 Our new design is simplified, resulting in an improved organization of information and navigation paths.  In short, we’re eliminating a lot of the annoyances many of our users identified in the course of using ScrumDo.
 
 Frequent navigation links and a tabbed layout improve accessibility to key functions.  Key information is summarized on each landing page.  And core functions are immediately accessible.  
