@@ -573,7 +573,7 @@ text-align: center;
             	<img src="http://cdn2.scrumdo.com/static/v50/scrumdo/landing/images/man_with_tie.png" width="97" height="142" border="0" />
             </div>
             <div class="floatRight get_scrumdo_btn_holder">
-            	<a href="/account/signup/" class="btn btn-success btn-success-iefix">Get ScrumDo</a>
+            	<a href="http://scrumdo.com/account/signup/" class="btn btn-success btn-success-iefix">Get ScrumDo</a>
                 <br/>
                 <h6>30 Days Trial Free!</h6>
             </div>
@@ -623,7 +623,41 @@ text-align: center;
 				<div style="float: left; margin: 30px 15px 8px 50px;">
 					<div class="roundedcorner" style="background-color: #30D595;">
 						<p style="text-align: center; font-weight: bold; font-size: 16px; line-height: 1.25;">Set-up YOUR<br/>eCoaching Session</p>
-                        <p style="margin-bottom: 0px;"><a href="mailto: steve@scrumdo.com">E-mail Steve Bingyou</a> today!</p>
+                        
+                        <form action="https://docs.google.com/a/codegenesys.com/forms/d/1cRdMtGzflc55W_6utD2CnkGl8hilqa7WhTu17j43a-A/formResponse" method="POST" id="vsm-form" target="page_iFrame" onsubmit="">
+
+                            <label class="ss-q-item-label" for="entry_1990633630"><div class="ss-q-title">Your name:
+                            <span class="ss-required-asterisk">*</span></div></label>                            
+                            <input type="text" name="entry.1990633630" value="" class="ss-q-short" id="entry_1990633630" dir="auto" aria-label="Your name:  " aria-required="true" required="" title="">  
+                            
+                            <label class="ss-q-item-label" for="entry_949418311"><div class="ss-q-title">Your e-mail:
+                            <span class="ss-required-asterisk">*</span></div></label>                            
+                            <input type="email" name="entry.949418311" value="" class="ss-q-short" id="entry_949418311" dir="auto" aria-label="Your e-mail:  Please enter a valid e-mail address" aria-required="true" required="" title="Please enter a valid e-mail address">
+                            
+                            <label class="ss-q-item-label" for="entry_1321757639"><div class="ss-q-title">Your phone number:
+                            </div></label>                            
+                            <input type="text" name="entry.1321757639" value="" class="ss-q-short" id="entry_1321757639" dir="auto" aria-label="Your phone number:  " title="">                            
+                            
+                            <input type="hidden" name="draftResponse" value="[,,&quot;-4806384482313749665&quot;]">
+                            <input type="hidden" name="pageHistory" value="0">
+                            <input type="hidden" name="fbzx" value="-4806384482313749665">
+                            
+                            <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
+                        </form>
+                        
+                        <script>
+                        function confirmForm() {
+                            document.getElementById('form-message').style.display='block'; 
+                            document.getElementById('vsm-form').reset();
+                            return true;
+                        }                        
+                        </script>
+                        
+                        <iframe name="page_iFrame" style="display:none" onload="confirmForm();">                   
+                        </iframe> 
+                        
+                        <div id="form-message" style="display: none;">Your request has been submitted!</div>
+                        
 					</div>
 				</div>              
                 
@@ -643,6 +677,7 @@ text-align: center;
                  <ul>
                     <li>Lean &amp; Agile Metrics</li>
                     <li>Continuous Improvement Practices</li>
+                    <li>Adding Scrumban</li>
                 </ul>       
                 </div> 
 			</div>
@@ -663,10 +698,10 @@ text-align: center;
         	<div class="row">
             	<div class="posRel">
                     <div class="floatLeft">
-                        <!--<a href="#">News</a> <a href="#">Training</a> <a href="#">Crew Call</a> <a href="#">FAQ</a>--> <a href="#">Contact</a>
+                        <!--<a href="#">News</a> <a href="#">Training</a> <a href="#">Crew Call</a> <a href="#">FAQ</a> <a href="#">Contact</a>-->
                     </div>
                     <div class="floatRight">
-                         <a href="#">Terms of Use</a> <a href="#">Privacy Policy</a> <span>&copy; 2014 ScrumDo</span>
+                         <!--<a href="#">Terms of Use</a>--> <a href="privacy-policy.html">Privacy Policy</a> <span>&copy; 2014 ScrumDo</span>
                     </div>
                     <div class="clearBoth"></div>
             	</div>
