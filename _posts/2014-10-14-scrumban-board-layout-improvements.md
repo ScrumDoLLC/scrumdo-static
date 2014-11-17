@@ -6,7 +6,9 @@ title: Scrumban Board Layout Improvements
 The first big change you'll notice is that by default, your board will now resize 
 vertically on it's own.  No more scrolling cells that make it hard 
 to see everything at once.  If you liked the scroll bars, there's
-now an option on the edit board screen to switch back.
+now an option on the edit board screen to switch back.  Picking a compact 
+list-view for cells that tend to have a lot of cards becomes a lot more 
+important.
 
 We've also revamped how dragging stories works to make it much more natural.  
 This includes things like selecting several stories by holding down shift and 
