@@ -7,9 +7,9 @@ title: Scrumban Intro
 
 This video is about an older ScrumDo version.  You can find some great Scrumban information at these links:
 
-[Getting started with Scrumban](http://help.scrumdo.com/2015/09/23/scrumban-getting-started.html)  
-[ScrumDo's Scrumban Help Index](http://help.scrumdo.com/help/scrumban.html)  
-[ScrumDo Intro Video](http://help.scrumdo.com/help/videointro.html)  
+* [Getting started with Scrumban](http://help.scrumdo.com/2015/09/23/scrumban-getting-started.html)  
+* [ScrumDo's Scrumban Help Index](http://help.scrumdo.com/help/scrumban.html)  
+* [ScrumDo Intro Video](http://help.scrumdo.com/help/videointro.html)  
 
 
 # Video
